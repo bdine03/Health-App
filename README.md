@@ -1,6 +1,9 @@
 ## Healthify
 
-Healthify is a Python application for managing health-related workflows and screens (see `app.py` and the `screens/` directory).
+Healthify is a Python application that generates optimized grocery lists for users based on their health and fitness goals (see `app.py` and the `screens/` directory).
+The long term goal is for grocery lists to be generated, and grocery stores (Walmart, Costco, etc) near the user's current location to be shown and being able to directly buy them on this app.  
+
+DISCLAIMER: This app is still under development. 
 
 ### Requirements
 
